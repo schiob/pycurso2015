@@ -1,6 +1,9 @@
 Curso de Python 2015
 ===========
 
+#### Registro
+http://goo.gl/forms/O5t8YvCKeU
+
 #### Ver los archivos.ipynb
 - http://nbviewer.ipython.org/github/schiob/pycurso2015/tree/master/
 
