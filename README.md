@@ -29,3 +29,4 @@ http://goo.gl/forms/O5t8YvCKeU
   - http://www.sublimetext.com/
   - https://atom.io/
   - http://www.jetbrains.com/pycharm/
+  - https://code.visualstudio.com/
